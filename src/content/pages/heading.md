@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Heading
+title: Test
 seo:
   page_description:
   canonical_url:
