@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Test
+title: Test1
 seo:
   page_description:
   canonical_url:
@@ -12,7 +12,7 @@ seo:
 content_blocks:
   - _bookshop_name: hero
     background_image:
-      image_path: /src/assets/images/antoine-gravier-ndzn00bh9mg-unsplash.jpg
+      image_path:
       type: image
       alt_text: An Image
     heading:
