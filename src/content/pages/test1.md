@@ -12,7 +12,7 @@ seo:
 content_blocks:
   - _bookshop_name: hero
     background_image:
-      image_path:
+      image_path: /src/assets/images/antoine-gravier-ndzn00bh9mg-unsplash.jpg
       type: image
       alt_text: An Image
     heading:
