@@ -1,6 +1,6 @@
 {
   "header": {
-    "logo": "/images/alberta-vision-care-logo.png",
+    "logo": null,
     "logo_url": "/",
     "background_color": "#ffffff",
     "color": "#393939",
@@ -34,9 +34,9 @@
   "footer": {
     "logo": "/images/alternate-logo-01.png",
     "logo_url": "/",
-    "copyright": "Alberta Vision Care",
-    "developer": "J.A Web Design",
-    "developer_url": "https://jawebdesign.ca/",
+    "copyright": null,
+    "developer": null,
+    "developer_url": null,
     "background_color": "#ffffff",
     "color": "#2d3748",
     "useful_links": [
